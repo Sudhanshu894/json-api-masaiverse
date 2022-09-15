@@ -1,16 +1,44 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "name": "aman",
+      "age": 23,
+      "place": "New Delhi south region",
+      "batch_name": "web-14",
+      "profession": "backend",
+      "id": 2
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name": "Abhishek",
+      "age": 25,
+      "place": "Uttar Pradesh",
+      "batch_name": "web-14",
+      "profession": "frontend",
+      "id": 3
+    },
+    {
+      "name": "Jaskaran",
+      "age": 20,
+      "place": "Punjab, ludhiyana",
+      "batch_name": "web-13",
+      "profession": "frontend",
+      "id": 4
+    },
+    {
+      "name": "Anshika",
+      "age": 21,
+      "place": "New Delhi south region",
+      "batch_name": "web-16",
+      "profession": "student",
+      "id": 6
+    },
+    {
+      "name": "Rahul",
+      "age": 26,
+      "place": "Bangluru",
+      "batch_name": "web-17",
+      "profession": "FSD",
+      "id": 7
     }
   ]
 }
